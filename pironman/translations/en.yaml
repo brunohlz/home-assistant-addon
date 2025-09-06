@@ -40,5 +40,5 @@ configuration:
     description: RGB pin
     options:
       - 10
-      - 12
+      - 18
       - 21
