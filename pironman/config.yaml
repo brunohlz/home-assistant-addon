@@ -1,8 +1,8 @@
 name: "Pironman"
 description: "Pironman support"
-version: "1.0.12"
+version: "1.0.13"
 slug: "pironman"
-image: "sunfounder/{arch}-addon-pironman"
+image: "brunohlz/{arch}-addon-pironman"
 init: false
 arch:
   - aarch64
